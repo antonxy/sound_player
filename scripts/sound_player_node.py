@@ -2,7 +2,7 @@
 import pygame
 import rospy
 import sys
-import speech_dispatcher.srv
+import sound_player.srv
 import threading
 import rospkg
 import os
